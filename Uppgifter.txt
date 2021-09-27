@@ -1,0 +1,3 @@
+Uppgifter att  lösa:
+1. Balansera karaktären med hjälp av de exporterade variablerna. "Karaktären" ska kännas gött när ni spelar. Just nu är allt wonky.
+2. Det går inte att vinna! Styr upp kollisionslagren så att spelaren kan vinna.
